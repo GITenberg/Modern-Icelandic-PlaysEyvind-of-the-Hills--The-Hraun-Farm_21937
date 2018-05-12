@@ -1,0 +1,36 @@
+_repo: Modern-Icelandic-PlaysEyvind-of-the-Hills--The-Hraun-Farm_21937
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Schanche, Henninge Margrethe Krohn
+    birthdate: 1861
+    gutenberg_agent_id: '24983'
+    url: http://www.gutenberg.org/2009/agents/24983
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sigurjónsson, Jóhann
+    alias: Sigurjonsson, Johann
+    birthdate: 1880
+    deathdate: 1919
+    gutenberg_agent_id: '24978'
+    url: http://www.gutenberg.org/2009/agents/24978
+description: ''
+gutenberg_issued: '2007-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21937'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Scandinavian classics, v. 6
+subjects:
+- !lcc 'PT'
+- !lcsh 'Icelandic drama -- Translations into English'
+title: 'Modern Icelandic Plays
+
+  Eyvind of the Hills; The Hraun Farm'
+url: http://www.gutenberg.org/ebooks/21937
