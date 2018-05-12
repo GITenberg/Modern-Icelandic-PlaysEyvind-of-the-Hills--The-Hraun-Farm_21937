@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '24978'
     url: http://www.gutenberg.org/2009/agents/24978
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21937#Modern-Icelandic-PlaysEyvind-of-the-Hills--The-Hraun-Farm
 gutenberg_issued: '2007-06-25'
 gutenberg_type: Text
 identifiers:
